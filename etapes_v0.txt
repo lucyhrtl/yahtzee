@@ -1,0 +1,11 @@
+étape 1 : lancer les dés
+
+étape 2 : sélectionner les valeurs à conserver en fonction de leur occurence et des valeurs déjà présentes dans le tableau
+
+étape 3 ( - relancer les dés restants
+
+- conserver les valeurs similaires ) x2
+
+étape 4 : stocker la somme du nombre de valeurs dans un tableau
+
+répéter jusqu'à complétion du tableau
